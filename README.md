@@ -38,7 +38,7 @@ This dashboard provides a detailed view of business performance through several 
 
 
 
-## 👩‍💻 Author
+## Author
 **Sabina Ismagulova**  
 
 
