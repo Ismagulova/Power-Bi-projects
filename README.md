@@ -34,10 +34,6 @@ This dashboard provides a detailed view of business performance through several 
 - **DAX** for KPI calculations
 - **Excel/CSV Dataset** as data source
 
-## 🖼️ Dashboard Preview
-![Power BI Dashboard](preview.png)
-
-
 
 
 
