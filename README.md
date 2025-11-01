@@ -36,13 +36,14 @@ This dashboard provides a detailed view of business performance through several 
 - **Excel/CSV Dataset** as data source
 
 ## 🖼️ Dashboard Preview
-*(You can upload screenshots from your PDF here for better presentation)*
 
-## 📂 Files
-- `sales order SI.pdf` — PDF export of the dashboard
-- `SalesOrder.pbix` — Power BI file (optional)
+
+
+
+
+
 
 ## 👩‍💻 Author
 **Sabina Ismagulova**  
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/yourusername)
+
 
