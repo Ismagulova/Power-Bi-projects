@@ -1,4 +1,3 @@
-# Power BI dashboard analyzing sales, customers, and shipping performance.
 # 📊 Power BI Sales Performance Dashboard
 
 An interactive Power BI dashboard analyzing company sales, profit, customers, and shipping performance across multiple dimensions.
